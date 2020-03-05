@@ -2,28 +2,11 @@ body {
     background-color: antiquewhite;
 }
 
-.container{
-  justify-content: space-between;
-   display: flex;
-   width:1000px;
-   height: 50px;
-}
-.container-fluid{
-    margin-top: center;
+.img{
+    width: 250px;
+    height: 250px;
 }
 
-.row{
-    height: 150px;
-    background-color: aliceblue;
-    
-}
-
-.col{
-    background-color: white;
-    padding: 10px;
-   
-    border: 1px solid #000000;
-    text-align: center;
-    color:black;
-
+.col-md-8{
+    background: white;
 }

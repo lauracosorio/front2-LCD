@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="validaciones" href="./validaciones/validaciones.js">
+    <link rel="stylesheet" href="./styles/Contacto.css">
+    <title>Contacto</title>
+
+</head>
+
+<body>
+
+
+    <div class="col-md-12 col-l-12 col-xs-12">
+        <section class="container"></section>
+        <h3 class="contact">CONTACTO</h3>
+        <p class="textcontact">Si requieres algun contacto con nosotras,rellena el formulario que veras a continuacíon, revisa bien tu informacion para que podamos contactarnos contigo. </p>
+    </div>
+
+    <form class="container">
+        <div class="col ">
+            <p id="description " class="textcontact ">
+                Todos los campos marcadosl con * son obligatorios.
+            </p>
+            <label for="inputEmail4" class="class_nombre ">Nombre completo</label>
+            <input type="text " id="name " class="form-control-nombre " placeholder="Nombre... " onkeypress="return sololetras(event) " onpaste="return false " required>
+
+        </div>
+        <section class="container">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4" class="class_email">Email</label>
+                    <input type=" email " class="form-control-email " id="inputEmail4 " placeholder="Email ">
+                </div>
+                <div class="form-group col-md-6 ">
+                    <label for="inputPassword4" class=" class_telefono ">Teléfono</label>
+                    <input type="password " class="form-control-telefono " id="inputPassword4 " placeholder="Teléfono ">
+                </div>
+        </section>
+
+        <div class="form-group ">
+            <label for="exampleFormControlTextarea1 " class="class_area ">Mensaje</label>
+            <textarea class="form_text " id=" exampleFormControlTextarea1 " rows="3 " placeholder="¿Qué necesitas? "></textarea>
+        </div>
+
+
+        </div>
+    </form>

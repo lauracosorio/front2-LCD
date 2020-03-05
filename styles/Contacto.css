@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik:wght@500&display=swap');
+.contact {
+    color: #099d8d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.textcontact {
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 70px;
+    display: block;
+    margin: auto;
+}
+
+.container {
+    display: block;
+}
+
+.container2 {
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    padding: 15px;
+}
+
+@media(min-width: 321px) {
+    .section {
+        display: flex;
+        font-size: 10px;
+    }
+}
+
+@media(min-width: 768px) {
+    .section {
+        display: flex;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 1200px) {
+    .section {
+        display: flex;
+        font-size: 14px;
+    }
+}
+
+.form_text {
+    display: block;
+    width: 100%;
+    width: 601;
+    height: 105px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin: 15px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 70px;
+    display: block;
+    margin: auto;
+}
+
+.form-control-nombre {
+    display: block;
+    margin-left: 15px;
+    margin-top: 5px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-block-end: 15px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    margin: auto;
+}
+
+.form-control-email {
+    display: block;
+    margin-left: 15px;
+    margin-right: 45px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    margin-block-end: 15px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 395px;
+}
+
+.form-control-telefono {
+    display: block;
+    margin-left: 15px;
+    margin-top: 5px;
+    height: 45px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-block-end: 15px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 162px;
+    margin: auto;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.btn btn-success {
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.bd-example {
+    width: 162px;
+    margin: 15px;
+    margin-right: -44px;
+}
+
+.class_nombre {
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 15px;
+    display: block;
+}
+
+.class_email {
+    margin-top: 60px;
+    display: block;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    display: block;
+    margin: auto;
+    margin-block-end: 15px;
+}
+
+.class_telefono {
+    margin-left: 15px;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    display: block;
+}
+
+.class_area {
+    margin-left: 15px;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 70px;
+    display: block;
+    margin: auto;
+}
+
+.class_nombre {
+    margin-top: 60px;
+    display: block;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 15px;
+    display: block;
+    margin: auto;
+    margin-block-end: 15px;
+}
+
+@media(min-width: 321px) {
+    .form {
+        display: flex;
+        font-size: 10px;
+    }
+}
+
+@media(min-width: 768px) {
+    .form {
+        display: flex;
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 1200px) {
+    .form {
+        display: flex;
+        font-size: 14px;
+    }
+}

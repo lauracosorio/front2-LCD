@@ -1,6 +1,4 @@
-body {
-    background-color: antiquewhite;
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
 
 .img{
     width: 250px;
@@ -9,4 +7,10 @@ body {
 
 .col-md-8{
     background: white;
+}
+.quienes{
+    color: #099D8D;
+    font-size: 24px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: medium;
 }

@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
+
+.container {
+    margin-bottom: 60px;
+}
+
+.text {
+    margin-top: 45px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #099D8D;
+    font-size: 24px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: medium;
+}
+
+.descripcion {
+    color: #54585A;
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    width: 601px;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.title {
+    margin-top: 45px;
+    margin-bottom: 15px;
+    justify-content: center;
+    color: #099D8D;
+    font-size: 22px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: medium;
+    
+    
+}
+
+.title2 {
+    margin-top: 45px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #099D8D;
+    font-size: 22px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: medium;
+    
+}
+
+.container2 {
+    
+    display: flex; 
+    margin: 0px;
+    text-align: center;
+    
+}
+
+.container3 {
+    background-color: #F1F1F1;
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 22.5px;
+
+}
+
+.container4 {
+    background-color: #F1F1F1;
+    width: 50%;
+    margin-right: 150px;
+    text-align:  center;
+    margin-left: 22.5px;
+}
+
+.centro {
+    width: 45px;
+}
+
+.fort {
+    display: block;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.dev {
+    display: block;
+    margin: auto;
+    margin-bottom: 60px;
+    text-align: center;
+}
+

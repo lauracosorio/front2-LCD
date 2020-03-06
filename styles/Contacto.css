@@ -263,11 +263,21 @@ p {
 
 .input100 {
     display: block;
-    width: 100%;
-    background: transparent;
-    font-family: Montserrat-SemiBold;
-    font-size: 18px;
-    color: #555555;
-    line-height: 1.2;
-    padding-right: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-block-end: 15px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    margin: auto;
 }

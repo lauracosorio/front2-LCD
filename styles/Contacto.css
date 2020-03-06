@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
-
 .contact {
     color: #099d8d;
     font-family: 'Rubik', sans-serif;
@@ -155,7 +154,7 @@ p {
     margin: auto;
 }
 
-.row {
+*/ .row {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -203,6 +202,16 @@ p {
     color: #54585A;
     font-size: 14px;
     display: block;
+}
+
+.telefono {
+    margin-left: 15px;
+}
+
+.email {
+    margin-left: 15px;
+    width: 395px;
+    margin-top: 15px;
 }
 
 .class_area {

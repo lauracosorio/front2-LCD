@@ -281,3 +281,10 @@ p {
     width: 601px;
     margin: auto;
 }
+.footer .footer__sections{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+
+}

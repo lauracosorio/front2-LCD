@@ -130,3 +130,23 @@
     background-position: center;
     /* background-repeat: no-repeat; */
 }
+
+.footer .footer__hreft{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.footer .footer__sections{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    list-style: none;
+
+}
+#id{
+    list-style: none;
+}

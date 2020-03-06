@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
-
 .contact {
     color: #099d8d;
     font-family: 'Rubik', sans-serif;
@@ -84,7 +83,7 @@ p {
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;
@@ -107,7 +106,7 @@ p {
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;
@@ -127,7 +126,7 @@ p {
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 395px;
@@ -148,14 +147,14 @@ p {
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 162px;
     margin: auto;
 }
 
-.row {
+*/ .row {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -176,7 +175,7 @@ p {
 }
 
 .class_nombre {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;
@@ -189,7 +188,7 @@ p {
     display: block;
     margin-left: 15px;
     margin-top: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     display: block;
@@ -199,15 +198,25 @@ p {
 
 .class_telefono {
     margin-left: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     display: block;
 }
 
+.telefono {
+    margin-left: 15px;
+}
+
+.email {
+    margin-left: 15px;
+    width: 395px;
+    margin-top: 15px;
+}
+
 .class_area {
     margin-left: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;
@@ -221,7 +230,7 @@ p {
     display: block;
     margin-left: 15px;
     margin-top: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;
@@ -250,4 +259,25 @@ p {
         display: flex;
         font-size: 14px;
     }
+}
+
+.input100 {
+    display: block;
+    margin-left: 15px;
+    margin-top: 5px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-block-end: 15px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    margin: auto;
 }

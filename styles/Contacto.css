@@ -1,11 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
+
 .contact {
     color: #099d8d;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-weight: medium;
+    margin-top: 45px;
 }
 
 .textcontact {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'OneSans', sans-serif;
+    color: #54585A;
+    font-size: 14px;
+    width: 601px;
+    height: 70px;
+    display: block;
+    margin: auto;
+}
+
+.textcontact1 {
+    font-family: 'OneSans', sans-serif;
     color: #54585A;
     font-size: 14px;
     width: 601px;

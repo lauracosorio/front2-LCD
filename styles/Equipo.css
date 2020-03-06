@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rubik:wght@300;500&display=swap');
 
-.container {
+.equipo {
     margin-bottom: 60px;
 }
 
@@ -49,24 +49,22 @@
     
 }
 
-.container2 {
-    
+.caracteristicas {
+    background-color: #F1F1F1;
     display: flex; 
     margin: 0px;
     text-align: center;
     
 }
 
-.container3 {
-    background-color: #F1F1F1;
+.fortalezas {
     width: 50%;
     margin-left: 150px;
     margin-right: 22.5px;
 
 }
 
-.container4 {
-    background-color: #F1F1F1;
+.debilidades {
     width: 50%;
     margin-right: 150px;
     text-align:  center;
